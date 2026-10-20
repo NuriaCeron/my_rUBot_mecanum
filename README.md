@@ -6,3 +6,4 @@ In this ROS2 repository we design, simulate and control different robots:
 
 
 Lucía Fantino aaa
+Nuria
