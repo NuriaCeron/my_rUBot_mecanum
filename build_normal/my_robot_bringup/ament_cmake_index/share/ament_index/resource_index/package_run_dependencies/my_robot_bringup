@@ -1,0 +1,1 @@
+my_robot_description;my_robot_driver;python3-serial;serial_motor_msgs;xacro;robot_state_publisher;joint_state_publisher;rplidar_ros;v4l2_camera;gazebo_ros;ament_lint_auto;ament_lint_common

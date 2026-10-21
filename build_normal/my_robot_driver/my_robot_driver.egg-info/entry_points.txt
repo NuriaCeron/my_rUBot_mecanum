@@ -1,0 +1,5 @@
+[console_scripts]
+rubot_nano_driver_diff_exec = my_robot_driver.rubot_nano_driver_diff:main
+rubot_nano_driver_exec = my_robot_driver.rubot_nano_driver:main
+rubot_nano_driver_mecanum_exec = my_robot_driver.rubot_nano_driver_mecanum:main
+rubot_pi_driver_exec = my_robot_driver.rubot_pi_driver:main

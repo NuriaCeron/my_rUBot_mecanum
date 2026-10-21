@@ -1,0 +1,1 @@
+gazebo_ros:joint_state_publisher:my_robot_description:my_robot_driver:python3-serial:robot_state_publisher:rplidar_ros:serial_motor_msgs:v4l2_camera:xacro

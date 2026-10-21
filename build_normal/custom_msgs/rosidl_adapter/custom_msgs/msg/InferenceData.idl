@@ -1,0 +1,14 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from custom_msgs/msg/InferenceData.msg
+// generated code does not contain a copyright notice
+
+
+module custom_msgs {
+  module msg {
+    struct InferenceData {
+      string class_name;
+
+      double depth;
+    };
+  };
+};

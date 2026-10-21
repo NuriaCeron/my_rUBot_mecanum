@@ -1,0 +1,8 @@
+{
+  "package_name": "custom_msgs",
+  "non_idl_tuples": [
+    "/home/user/my_rUBot_mecanum/src/AI_Projects/custom_msgs:msg/InferenceResult.msg",
+    "/home/user/my_rUBot_mecanum/src/AI_Projects/custom_msgs:msg/Yolov8Inference.msg",
+    "/home/user/my_rUBot_mecanum/src/AI_Projects/custom_msgs:msg/InferenceData.msg"
+  ]
+}

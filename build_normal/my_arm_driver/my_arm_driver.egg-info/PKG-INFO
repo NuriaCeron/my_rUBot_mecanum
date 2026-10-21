@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: my_arm_driver
+Version: 0.0.1
+Summary: ROS 2 serial driver for a servo-based educational robot arm
+Maintainer: Manel Puig
+Maintainer-email: puigmanel@gmail.com
+License: MIT
+Requires-Dist: setuptools
+Requires-Dist: pyserial
+Dynamic: license
+Dynamic: maintainer
+Dynamic: maintainer-email
+Dynamic: requires-dist
+Dynamic: summary

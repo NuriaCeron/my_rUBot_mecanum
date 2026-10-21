@@ -1,0 +1,13 @@
+custom_nav2:
+  ros__parameters:
+    use_sim_time: true
+
+    initial_pose: [0.5, -1.5, 1.57]
+
+    signal_waypoint: [0.5, -1.1, 1.75]
+
+    target_pose: [0.4, 1.2, 1.57]
+
+    reading_signal_time: 4.0
+
+    wait_for_traffic_wp: 10.0

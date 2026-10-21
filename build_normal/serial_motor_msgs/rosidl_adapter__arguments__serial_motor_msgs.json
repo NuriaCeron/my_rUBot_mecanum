@@ -1,0 +1,10 @@
+{
+  "package_name": "serial_motor_msgs",
+  "non_idl_tuples": [
+    "/home/user/my_rUBot_mecanum/src/Robot_drivers/serial_motor_msgs:msg/MotorVels.msg",
+    "/home/user/my_rUBot_mecanum/src/Robot_drivers/serial_motor_msgs:msg/MotorCommands.msg",
+    "/home/user/my_rUBot_mecanum/src/Robot_drivers/serial_motor_msgs:msg/EncoderVals.msg",
+    "/home/user/my_rUBot_mecanum/src/Robot_drivers/serial_motor_msgs:msg/MecanumMotorVels.msg",
+    "/home/user/my_rUBot_mecanum/src/Robot_drivers/serial_motor_msgs:msg/MecanumEncoderVals.msg"
+  ]
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<sdf version="1.7">
+  <model name="wall120cm">
+    <static>true</static>
+
+    <link name="link">
+
+      <collision name="collision">
+        <geometry>
+          <box>
+            <size>1.2 0.05 0.3</size>
+          </box>
+        </geometry>
+      </collision>
+
+      <visual name="visual">
+        <geometry>
+          <box>
+            <size>1.2 0.05 0.3</size>
+          </box>
+        </geometry>
+
+        <material>
+          <ambient>0.45 0.30 0.15 1</ambient>
+          <diffuse>0.45 0.30 0.15 1</diffuse>
+          <specular>0.05 0.05 0.05 1</specular>
+        </material>
+      </visual>
+
+    </link>
+  </model>
+</sdf>
+

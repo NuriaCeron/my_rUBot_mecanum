@@ -1,0 +1,5 @@
+/home/user/my_rUBot_mecanum/build_normal/serial_motor_msgs/rosidl_adapter/serial_motor_msgs:msg/MotorVels.idl
+/home/user/my_rUBot_mecanum/build_normal/serial_motor_msgs/rosidl_adapter/serial_motor_msgs:msg/MotorCommands.idl
+/home/user/my_rUBot_mecanum/build_normal/serial_motor_msgs/rosidl_adapter/serial_motor_msgs:msg/EncoderVals.idl
+/home/user/my_rUBot_mecanum/build_normal/serial_motor_msgs/rosidl_adapter/serial_motor_msgs:msg/MecanumMotorVels.idl
+/home/user/my_rUBot_mecanum/build_normal/serial_motor_msgs/rosidl_adapter/serial_motor_msgs:msg/MecanumEncoderVals.idl

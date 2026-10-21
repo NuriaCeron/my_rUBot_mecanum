@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-c036f190facf129e38f2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "serial_motor_msgs__py",
+					"jsonFile" : "directory-serial_motor_msgs__py-2f50931617325a8c5d0e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/user/my_rUBot_mecanum/build_normal/serial_motor_msgs/serial_motor_msgs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "serial_motor_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_serial_motor_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_serial_motor_msgs_egg-c61a9e04232b6e6027ec.json",
+					"name" : "ament_cmake_python_build_serial_motor_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_serial_motor_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_serial_motor_msgs-98ad545cf864b6f1dfb0.json",
+					"name" : "ament_cmake_python_copy_serial_motor_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_msgs-006ab05adc41380e2ba9.json",
+					"name" : "serial_motor_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_msgs__cpp-eebcef965fd0798a21aa.json",
+					"name" : "serial_motor_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "serial_motor_msgs__py::@5967c95af26a34297ce4",
+					"jsonFile" : "target-serial_motor_msgs__py-07b0bc231cd959ef1666.json",
+					"name" : "serial_motor_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_msgs__rosidl_generator_c-3cb3fe4bfabaf4a7d402.json",
+					"name" : "serial_motor_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_msgs__rosidl_generator_py-2a1b4a61c278603d8554.json",
+					"name" : "serial_motor_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_msgs__rosidl_typesupport_c-74b8385d82fcfd8299d3.json",
+					"name" : "serial_motor_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_msgs__rosidl_typesupport_c__pyext-7599e5cc2f66b17bf078.json",
+					"name" : "serial_motor_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_msgs__rosidl_typesupport_cpp-e09e98a9683df5ee31ae.json",
+					"name" : "serial_motor_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_msgs__rosidl_typesupport_fastrtps_c-791199e9651e0924fbf1.json",
+					"name" : "serial_motor_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_msgs__rosidl_typesupport_fastrtps_c__pyext-6084f147b11af0d21e63.json",
+					"name" : "serial_motor_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_msgs__rosidl_typesupport_fastrtps_cpp-d492eafc5369149aaca0.json",
+					"name" : "serial_motor_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_msgs__rosidl_typesupport_introspection_c-5d120fa3f363997977f2.json",
+					"name" : "serial_motor_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_msgs__rosidl_typesupport_introspection_c__pyext-247d230c54431c7cdbba.json",
+					"name" : "serial_motor_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_msgs__rosidl_typesupport_introspection_cpp-8dca66f5494c991001f4.json",
+					"name" : "serial_motor_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_msgs_uninstall-25d9f765aaa9175e89be.json",
+					"name" : "serial_motor_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-e3526a3dbaec6c72446b.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/user/my_rUBot_mecanum/build_normal/serial_motor_msgs",
+		"source" : "/home/user/my_rUBot_mecanum/src/Robot_drivers/serial_motor_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

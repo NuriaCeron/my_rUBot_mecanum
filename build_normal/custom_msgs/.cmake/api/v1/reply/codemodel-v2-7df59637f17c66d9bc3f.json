@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-9d90d0926becb0fa8602.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "custom_msgs__py",
+					"jsonFile" : "directory-custom_msgs__py-d5378c3849fce932b81a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/user/my_rUBot_mecanum/build_normal/custom_msgs/custom_msgs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "custom_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_custom_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_custom_msgs_egg-73d3fa77419066d070ef.json",
+					"name" : "ament_cmake_python_build_custom_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_custom_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_custom_msgs-cd4a97d7def8eb9a4aa6.json",
+					"name" : "ament_cmake_python_copy_custom_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_msgs-dfd34993b4be9cc51b62.json",
+					"name" : "custom_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_msgs__cpp-aed366743e791f36ff36.json",
+					"name" : "custom_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "custom_msgs__py::@2634c5d39aa98e77faee",
+					"jsonFile" : "target-custom_msgs__py-0970ba6beb1659e22882.json",
+					"name" : "custom_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_msgs__rosidl_generator_c-713d5924a441883eab85.json",
+					"name" : "custom_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_msgs__rosidl_generator_py-cd3083c3b275a62b1ffc.json",
+					"name" : "custom_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_msgs__rosidl_typesupport_c-47433b17103cb50fa2c0.json",
+					"name" : "custom_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_msgs__rosidl_typesupport_c__pyext-75eaebd48e531eb2bc36.json",
+					"name" : "custom_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_msgs__rosidl_typesupport_cpp-88e1bd168d077ed554c6.json",
+					"name" : "custom_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_msgs__rosidl_typesupport_fastrtps_c-97b0d8ae32ee1e044478.json",
+					"name" : "custom_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_msgs__rosidl_typesupport_fastrtps_c__pyext-1da02fb0233957412869.json",
+					"name" : "custom_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_msgs__rosidl_typesupport_fastrtps_cpp-30f1263651a6ca3627ab.json",
+					"name" : "custom_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_msgs__rosidl_typesupport_introspection_c-7d86e7e2f0bfeae55575.json",
+					"name" : "custom_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_msgs__rosidl_typesupport_introspection_c__pyext-908c42c5ebd24bb12061.json",
+					"name" : "custom_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_msgs__rosidl_typesupport_introspection_cpp-58e00cf73db7b0f3a849.json",
+					"name" : "custom_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_msgs_uninstall-3753df6e703f87b6c1c2.json",
+					"name" : "custom_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-7e182ccb0a7f6a85b9fd.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/user/my_rUBot_mecanum/build_normal/custom_msgs",
+		"source" : "/home/user/my_rUBot_mecanum/src/AI_Projects/custom_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

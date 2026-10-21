@@ -1,0 +1,3 @@
+/home/user/my_rUBot_mecanum/build_normal/custom_msgs/rosidl_adapter/custom_msgs:msg/InferenceResult.idl
+/home/user/my_rUBot_mecanum/build_normal/custom_msgs/rosidl_adapter/custom_msgs:msg/Yolov8Inference.idl
+/home/user/my_rUBot_mecanum/build_normal/custom_msgs/rosidl_adapter/custom_msgs:msg/InferenceData.idl
