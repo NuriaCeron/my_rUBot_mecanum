@@ -2,4 +2,4 @@
 
 In this ROS2 repository we design, simulate and control different robots:
 - custom rUBot mecanum robot
-- Limo commercial robot0000
+- Limo commercial robot00001111
